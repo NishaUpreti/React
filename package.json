@@ -1,0 +1,17 @@
+{
+  "name": "namastereact-episode-1",
+  "version": "1.0.0",
+  "description": "react learning",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "nisha",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.13.0"
+  }
+}
